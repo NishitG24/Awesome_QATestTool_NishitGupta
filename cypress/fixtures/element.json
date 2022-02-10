@@ -1,0 +1,11 @@
+{
+    "pageHeaderLocator" : "header",
+    "questionBoxLocator" : "#question",
+    "answerBoxLocator" : "#answer",
+    "createButtonLocator" : ".form > .btn",
+    "listGroupLocator" : ".list-group",
+    "listQuestionLocator" : "div",
+    "listAnswerLocator" : ".question__answer",
+    "removeButtonLocator" : ".btn-danger",
+    "clearMessageLocator" : ".alert"
+}

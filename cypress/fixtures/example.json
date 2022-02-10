@@ -1,0 +1,11 @@
+{"config":
+  {
+  "url": "http://localhost:8000/",
+  "pageHeader": "The awesome Q/A tool"
+},
+"AddRemoveQuestions":{
+  "questions":"Who are you ?",
+  "answer":"I am an Automation engineer",
+  "alertMessage":"No questions yet :-("
+}
+}

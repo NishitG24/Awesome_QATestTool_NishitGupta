@@ -1,0 +1,23 @@
+{
+  "name": "quality-assurance-engineer-test-studocu-nishitgupta",
+  "version": "1.0.0",
+  "description": "Automation test Development of Awesome QA tool Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishitG24/Awesome_QATestTool_NishitGupta.git"
+  },
+  "author": "Nishit Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishitG24/Awesome_QATestTool_NishitGupta/issues"
+  },
+  "homepage": "https://github.com/NishitG24/Awesome_QATestTool_NishitGupta#readme",
+  "dependencies": {
+    "@cypress/webpack-preprocessor": "^5.11.0",
+    "cypress": "^9.4.1"
+  }
+}
